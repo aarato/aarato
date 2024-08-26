@@ -656,13 +656,16 @@ personal:
             hu: Malajzia
           - 
             en: Singapore
-            hu: 
+            hu: Szingapúr
           - 
             en: Thailand
-            hu: Szingapúr
+            hu: Tájföld
           - 
             en: 'Lesser Sunda Islands (Bali, Timor, Indonesia)'
             hu: 'Lesser Sunda Szigetek (Bali, Timor, Indonézia)'
+          - 
+            en: 'Vietnam'
+            hu: 'Vietnám'
       me:
         name: 
           en: MIDDLE EAST
