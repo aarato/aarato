@@ -28,7 +28,7 @@ onMounted(() => {
             <a class="nav-link" :href="link.href">{{link.text[language]}}</a>
           </li>
 
-          <li class="nav-item dropdown">
+          <li v-if="false" class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
               {{config.menutext[language]}}
             </a>
