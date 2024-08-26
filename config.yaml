@@ -1,0 +1,963 @@
+---
+frontpage:
+  title: 
+    en: Andras Arato
+    hu: Arató András
+  subtitle: 
+    en: Interactive Homepage
+    hu: Interaktív Honlap
+  images: 
+    main: 'https://aarato.s3.amazonaws.com/img/galapagos-color.jpg'
+    language_us: 'https://aarato.s3.amazonaws.com/img/usa_circle.png'
+    language_hu: 'https://aarato.s3.amazonaws.com/img/hun_circle.png'
+  carousel:
+    - title: 
+        en: For the eyes of the Lord range throughout the earth to strengthen those whose hearts are fully committed to him.
+        hu: Mert az Úr szemei áttekintik az egész földet, és ő megmutatja erejét azoknak, akik tiszta szívvel az övéi.
+      subtitle: 
+        en: '2 Chronicles 16:9'
+        hu: '2Krónikák 16:9'
+    - title: 
+        en: Love the Lord your God with all your heart and with all your soul and with all your mind.
+        hu: 'Szeresd az Urat, a te Istenedet teljes szívedből, teljes lelkedből és teljes elmédből.'
+      subtitle: 
+        en: 'Matthew 22:37'
+        hu: 'Máté 22:37'
+    - title: 
+        en: Faith is confidence in what we hope for and assurance about what we do not see.
+        hu: A hit pedig a remélt dolgokban való bizalom, és a nem látható dolgok létéről való meggyőződés.
+      subtitle: 
+        en: 'Hebrews 11:1'
+        hu: 'Zsidókhoz 11:1'
+navbar:
+  links:
+    - text: 
+        en: Personal
+        hu: Személyes
+      href: "#Personal"
+    - text: 
+        en: Professional
+        hu: Szakmai
+      href: "#Professional"
+  menutext: 
+    en: Menu
+    hu: Menü
+  dropdowns:
+    - text: 
+        en: Login
+        hu: Bejelenkezés
+      href: "/auth/saml/login"
+    - text: 
+        en: Files
+        hu: Fájlok
+      href: "/files"
+  images: 
+    language_us: 'https://aarato.s3.amazonaws.com/img/usa_circle.png'
+    language_hu: 'https://aarato.s3.amazonaws.com/img/hun_circle.png'
+personal:
+  title: 
+    en: Personal
+    hu: Személyes
+  color: "b3afac"
+  about:
+    title: 
+      en: About me
+      hu: Rólam
+    paragraphs:
+      - en: >-
+          I am a consultant with over 20 years of industry experience in designing and
+          implementing complex IT solutions for public sector and Fortune 1000
+          organizations.
+        hu: >-
+          Tanácsadó vagyok, több mint 20 év iparági tapasztalattal rendelkezek a 
+          komplex informatikai megoldások megvalósítására a közszféra vagy nagyvállalatok számára.        
+      - en: >-
+          When I am not behind a keyboard working on a project, or studying for a new
+          certification, you might catch me planning my next exotic travel adventure.
+        hu: >-
+          Amikor nem a billentyűzet mögött dolgozom egy projekten, vagy tanulok egy új minősítésre,
+          rajta kaphat azon, hogy a következő utazási kalandomat tervezem egy egzotikus helyre.        
+    images:
+      face: 'https://aarato.s3.amazonaws.com/img/face.png'
+    details:
+      title: 
+        en: Details
+        hu: Részletek
+      info:
+        - title: 
+            en: 'Name:'
+            hu: 'Név:'
+          text: 
+            en: Andras Arato
+            hu: Arató András
+        - title: 
+            en: 'Place of Birth:'
+            hu: 'Születési Hely:'
+          text: 
+            en: 'Budapest, Hungary'
+            hu: 'Budapest, Magyarország'
+        - title: 
+            en: 'Location:'
+            hu: 'Tartózkodási Hely:'
+          text: 
+            en: 'Chicagoland, Illinois, USA (since 1998)'
+            hu: 'Chicagoland, Illinois, USA (1998-óta )'
+    contacts:
+      title: 
+        en: "Contacts:"
+        hu: "Kapcsolatok:"
+      linkedin: 'https://www.linkedin.com/in/andrasarato/'
+      github: 'https://github.com/aarato'
+      facebook: 'https://www.facebook.com/aarato'
+      twitter: 'https://twitter.com/aarato'
+      mailto: 'mailto:andras@arato.biz'
+  interests:
+    title: 
+      en: "Interests & Hobbies"
+      hu: "Érdeklődés & Hobbik"
+    list:
+      - text: 
+          en: 'Travel, I have visited 82 countries & territories.'
+          hu: 'Utazás, 79 országban és területen jártam.'
+        url: null
+      - text: 
+          en: 'Tennis, I am an active  member of the Naperville Tennis Club.'
+          hu: 'Tenisz, aktív tagja vagyok a Naperville Tennis Clubnak.'
+        url: 'http://www.napervilletennis.com/'
+      - text: 
+          en: 'Chess, challange me on chess.com if you are similarly rated ~1000-1100.'
+          hu: 'Sakk, keress meg a chess.com-on, ha hasonlo ~1000-1100 értékelésed vad.'
+        url: 'http://www.chess.com/'
+      - text: 
+          en: 'Piano, I will call this "labor of love unreturned".'
+          hu: 'Zongora, ezt a "viszonozatlan szeretet munkája" néven hívom.'
+        url: null
+      - text: 
+          en: Electronics, I love working with small circuit boards mostly for home automation.
+          hu: Elektronika, szeretek gyengeáramköri lapokkal dolgozni, főleg otthoni automatizáláshoz.
+        url: null
+      - text: 
+          en: Programming, many of my hobby projects, including the source code of this website are accessible on my github site.
+          hu: Progeramozas, sok hobby projektemet mint ahogy a forraskodjat ennek a weboldalnak megtalalod a github oldatamon.
+        url: https://github.com/aarato
+  travel:
+    title: 
+      en: Pictures
+      hu: Képek
+    pics: 
+      - text: 
+          en: 'Chieow Larn Lakehouses, Thailand'
+          hu: 'Chieow Larn Tóházak, Thaiföld'
+        img: 'https://aarato.s3.amazonaws.com/thumbs/20110721_030724_000.jpg'
+        tags: [top10,as]
+      - text: 
+          en: 'Desert Conservation, Dubai'
+          hu: 'Sivatagi Természetvédelmi Hely, Dubai'
+        img: https://aarato.s3.amazonaws.com/thumbs/20161126_224118_000.jpg
+        tags: [top10,me,dubai]
+      - text: 
+          en: 'Santa Cruz, Galapagos Islands'
+          hu: 'Santa Cruz, Galapagos szigetek'
+        img: https://aarato.s3.amazonaws.com/thumbs/20140331_014739_000.jpg
+        tags: [top10,sa,galapagos]
+      - text: 
+          en: 'Giza Pyramids, Egypt'
+          hu: 'Giza Piramisok, Egyiptom'
+        img: https://aarato.s3.amazonaws.com/thumbs/20161128_071029_000.jpg
+        tags: [top10,af]
+      - text: 
+          en: 'Milford Sound, New Zealand'
+          hu: 'Milford Sound, Új Zéland'
+        img: https://aarato.s3.amazonaws.com/thumbs/20120328_144128_000.jpg
+        tags: [top10,pa]
+      - text: 
+          en: 'Jinshanling Great Wall, China'
+          hu: 'Jinshanling Nagy Fal, Kína'
+        img: https://aarato.s3.amazonaws.com/thumbs/20100815_005027_000.jpg
+        tags: [top10,as]
+      - text: 
+          en: 'Boulders Beach, South Africa'
+          hu: 'Boulders Beach, Dél-Afrika'
+        img: https://aarato.s3.amazonaws.com/thumbs/20160329_034316_000.jpg
+        tags: [top10,af]
+      - text: 
+          en: 'Antilope Canyon, Navajo Nation'
+          hu: 'Antilope Canyon, Navaho Nemzet'
+        img: https://aarato.s3.amazonaws.com/thumbs/20131008_222109_000.jpg
+        tags: [top10,na]
+      - text: 
+          en: 'Machu Picchu, Peru'
+          hu: 'Machu Picchu, Peru'
+        img: https://aarato.s3.amazonaws.com/thumbs/20130529_144143_000.jpg
+        tags: [top10,sa]
+      - text: 
+          en: 'Petra, Jordan'
+          hu: 'Petra, Jordánia'
+        img: https://aarato.s3.amazonaws.com/thumbs/PXL_20220915_070817295.MP_2.jpg
+        tags: [top10,me]
+      - text: 
+          en: 'Pilisvörösvár, Hungary'
+          hu: 'Pilisvörösvár, Magyarország'
+        img: https://aarato.s3.amazonaws.com/thumbs/PXL_20210630_093150340.jpg
+        tags: [eu]
+      - text: 
+          en: 'Plaza de Toros de Ronda, Spain'
+          hu: 'Plaza de Toros de Ronda, Spanyolország'
+        img: https://aarato.s3.amazonaws.com/thumbs/20160624_171306_000.jpg
+        tags: [eu]
+      - text: 
+          en: 'Rangali Island, Maldives'
+          hu: 'Rangali Sziget, Maldív-szigetek'
+        img: https://aarato.s3.amazonaws.com/thumbs/20150706_131207_000.jpg
+        tags: [as]
+      - text: 
+          en: 'Golfuss, Iceland'
+          hu: 'Golfuss, Izland'
+        img: https://aarato.s3.amazonaws.com/thumbs/20120906_054626_000.jpg
+        tags: [eu]
+      - text: 
+          en: 'Mendenhall Glacier, Alaska'
+          hu: 'Mendenhall Gleccser, Alaszka'
+        img: https://aarato.s3.amazonaws.com/thumbs/20100602_173606_000.jpg
+        tags: [na]
+      - text: 
+          en: 'Amed, Bali, Indonesia'
+          hu: 'Amed, Bali, Indonézia'
+        img: https://aarato.s3.amazonaws.com/thumbs/20140716_100110_000.jpg
+        tags: [as]
+      - text: 
+          en: 'Beng Malea, Cambodia'
+          hu: 'Beng Malea, Kambodzsa'
+        img: https://aarato.s3.amazonaws.com/thumbs/20141226_072454_000.jpg
+        tags: [as]
+      - text: 
+          en: 'Jaipur Step Well, India'
+          hu: 'Jaipur Lépcső Kút, India'
+        img: https://aarato.s3.amazonaws.com/thumbs/IMG_20171227_100205.jpg
+        tags: [as]
+      - text: 
+          en: 'Santorini, Greece'
+          hu: 'Santorini, Görögország'
+        img: https://aarato.s3.amazonaws.com/thumbs/DSC03994.JPG
+        tags: [eu]
+      - text: 
+          en: 'Yosemite Giant Sequoias, California'
+          hu: 'Yosemite Óriás Sequoiák, Kalifornia'
+        img: https://aarato.s3.amazonaws.com/thumbs/20120609_125603_000.jpg
+        tags: [na]
+      - text: 
+          en: 'Trunk Beach, Virgin Islands'
+          hu: 'Trunk Beach, Virgin Islands'
+        img: https://aarato.s3.amazonaws.com/thumbs/20160102_115600_000.jpg
+        tags: [na]
+      - text: 
+          en: 'Table Mountain, South Africa'
+          hu: 'Table Mountain, South Africa'
+        img: https://aarato.s3.amazonaws.com/thumbs/20160328_024057_000.jpg 
+        tags: [af]
+      - text: 
+          en: 'Cairo, Egypt'
+          hu: 'Cairo, Egypt'
+        img: https://aarato.s3.amazonaws.com/thumbs/20161129_062209_001.jpg
+        tags: [af]
+      - text: 
+          en: 'Sidney Opera House, Australia'
+          hu: 'Sidney Opera House, Australia'
+        img: https://aarato.s3.amazonaws.com/thumbs/20120325_023253_000.jpg
+        tags: [pa]
+      - text: 
+          en: 'Featherdale Wildlife Park, Australia'
+          hu: 'Featherdale Wildlife Park, Australia'
+        img: https://aarato.s3.amazonaws.com/thumbs/20120323_154412_000.jpg
+        tags: [pa]
+      - text: 
+          en: 'Hobbitton, New Zealand'
+          hu: 'Hobbitton, New Zealand'
+        img: https://aarato.s3.amazonaws.com/thumbs/20120331_184641_000.jpg
+        tags: [pa]
+      - text: 
+          en: 'Sheikh Zayed Mosque, Abu Dhabi'
+          hu: 'Sheikh Zayed Mosque, Abu Dhabi'
+        img: https://aarato.s3.amazonaws.com/thumbs/IMG_20171224_174733.jpg
+        tags: [me] 
+      - text: 
+          en: 'Western Wall, Jerusalem'
+          hu: 'Western Wall, Jerusalem'
+        img: https://aarato.s3.amazonaws.com/thumbs/PXL_20220913_110108987.jpg
+        tags: [me]
+      - text: 
+          en: 'Getshamene, Jerusalem'
+          hu: 'Getshamene, Jerusalem'
+        img: https://aarato.s3.amazonaws.com/thumbs/PXL_20220916_123643863.MP.jpg
+        tags: [me]
+      - text: 
+          en: 'Perito Moreno Glacier, Argentina'
+          hu: 'Perito Moreno Glacier, Argentina'
+        img: https://aarato.s3.amazonaws.com/thumbs/PXL_20230113_185631009.jpg
+        tags: [sa]
+      - text: 
+          en: 'Monteverde Cloud Forest, Costa Rica'
+          hu: 'Monteverde Cloud Forest, Costa Rica'
+        img: https://aarato.s3.amazonaws.com/thumbs/20100121_103502_000.jpg
+        tags: [sa]
+      - text: 
+          en: 'Quito, Ecuador'
+          hu: 'Quito, Ecuador'
+        img: https://aarato.s3.amazonaws.com/thumbs/20140329_212705_000.jpg
+        tags: [sa]
+      - text: 
+          en: 'Copacabana Beach, Rio de Janeiro'
+          hu: 'Copacabana Beach, Rio de Janeiro'
+        img: https://aarato.s3.amazonaws.com/thumbs/PXL_20230102_132708870.jpg
+        tags: [sa]
+      - text: 
+          en: 'Iguazu Falls, Brazil'
+          hu: 'Iguazu Falls, Brazil'
+        img: https://aarato.s3.amazonaws.com/thumbs/PXL_20230109_135124389.MP.jpg
+        tags: [sa]
+      - text: 
+          en: 'Buenos Aires, Argentina'
+          hu: 'Buenos Aires, Argentina'
+        img: https://aarato.s3.amazonaws.com/thumbs/PXL_20230115_144038458.MP.jpg
+        tags: [sa]
+      - text: 
+          en: 'Colonia, Uruguay'
+          hu: 'Colonia, Uruguay'
+        img: https://aarato.s3.amazonaws.com/thumbs/PXL_20230116_153039074.jpg
+        tags: [sa]
+      - text: 
+          en: 'Taj Mahal, India'
+          hu: 'Taj Mahal, India'
+        img: https://aarato.s3.amazonaws.com/thumbs/IMG_20171228_081745.jpg
+        tags: [as]
+      - text: 
+          en: 'Khao Sok, Thailand'
+          hu: 'Khao Sok, Thailand'
+        img: https://aarato.s3.amazonaws.com/thumbs/20110722_204342_000.jpg
+        tags: [as]
+      - text: 
+          en: 'Singapore'
+          hu: 'Singapore'
+        img: https://aarato.s3.amazonaws.com/thumbs/20140711_100629_000.jpg
+        tags: [as]
+      - text: 
+          en: 'Kyoto, Japan'
+          hu: 'Kyoto, Japan'
+        img: https://aarato.s3.amazonaws.com/thumbs/20120320_030430_000.jpg
+        tags: [as]
+      - text: 
+          en: 'Ubud, Bali'
+          hu: 'Ubud, Bali'
+        img: https://aarato.s3.amazonaws.com/thumbs/20140712_122012_000.jpg
+        tags: [as]
+      - text: 
+          en: 'Stalactite River, Mexico'
+          hu: 'Stalactite River, Mexico'
+        img: https://aarato.s3.amazonaws.com/thumbs/20111128_223340_000.jpg
+        tags: [na]
+      - text: 
+          en: 'Yosemite National Park, California'
+          hu: 'Yosemite National Park, California'
+        img: https://aarato.s3.amazonaws.com/thumbs/20120607_171637_000.jpg
+        tags: [na]
+      - text: 
+          en: 'Saguaro National Park, Arizona'
+          hu: 'Saguaro National Park, Arizona'
+        img: https://aarato.s3.amazonaws.com/thumbs/20131128_183659_000.jpg
+        tags: [na]
+      - text: 
+          en: 'Perdido Key Park, Florida'
+          hu: 'Perdido Key Park, Florida'
+        img: https://aarato.s3.amazonaws.com/thumbs/20141004_133828_000.jpg
+        tags: [na]
+      - text: 
+          en: 'San Juan, Puerto Rico'
+          hu: 'San Juan, Puerto Rico'
+        img: https://aarato.s3.amazonaws.com/thumbs/20150328_140539_000.jpg
+        tags: [na]
+      - text: 
+          en: 'Zion National Park, Utah'
+          hu: 'Zion National Park, Utah'
+        img: https://aarato.s3.amazonaws.com/thumbs/DSC04386.JPG
+        tags: [na]
+      - text: 
+          en: 'Pipiwai Trail, Maui, Hawai'
+          hu: 'Pipiwai Trail, Maui, Hawai'
+        img: https://aarato.s3.amazonaws.com/thumbs/20080403_144006_000.jpg
+        tags: [na]
+      - text: 
+          en: 'Waimea Canyon, Kauai, Hawai'
+          hu: 'Waimea Canyon, Kauai, Hawai'
+        img: https://aarato.s3.amazonaws.com/thumbs/20080406_194632_000.jpg
+        tags: [na]
+      - text: 
+          en: 'Notre Dame, Paris, France'
+          hu: 'Notre Dame, Paris, France'
+        img: https://aarato.s3.amazonaws.com/thumbs/20150718_164457_000.jpg
+        tags: [eu]
+      - text: 
+          en: 'Venice, Italy'
+          hu: 'Venice, Italy'
+        img: https://aarato.s3.amazonaws.com/thumbs/20130712_121558_000.jpg
+        tags: [eu]
+      - text: 
+          en: 'Cliffs of Moher, Ireland'
+          hu: 'Cliffs of Moher, Ireland'
+        img: https://aarato.s3.amazonaws.com/thumbs/20170401_084612_000.jpg
+        tags: [eu]
+      - text: 
+          en: 'Eilean Donan Castle, Scotland'
+          hu: 'Eilean Donan Castle, Scotland'
+        img: https://aarato.s3.amazonaws.com/thumbs/20070404_071655_000.jpg
+        tags: [eu]
+      - text: 
+          en: 'Plitvice Lakes, Croatia'
+          hu: 'Plitvice Lakes, Croatia'
+        img: https://aarato.s3.amazonaws.com/thumbs/20130709_111121_000.jpg
+        tags: [eu]
+      - text: 
+          en: 'Checkpoint Charlie, Berlin, Germany'
+          hu: 'Checkpoint Charlie, Berlin, Germany'
+        img: https://aarato.s3.amazonaws.com/thumbs/20060630_055924_000.jpg
+        tags: [eu]
+  countries:
+    title: 
+      en: Travel Log
+      hu: Utazási Napló
+    paragraph: 
+      en: I visited the following Countries & Territories.
+      hu: Az alábbi országokat és területeket látogattam meg.
+    list:
+      na:
+        name: 
+          en: "NORTH/CENTRAL/SOUTH AMERICA"
+          hu: "ÉSZAK/KÖZÉP/DÉL-AMERIKA"
+        items:
+          - 
+            en: Argentina
+            hu: Argentina
+          - 
+            en: Brazil
+            hu: Brazilia
+          - 
+            en: United States (Contiguous)
+            hu: Egyesült Államok (szomszédos)
+          - 
+            en: Canada
+            hu: Kanada
+          - 
+            en: Mexico
+            hu: Mexikó
+          - 
+            en: Alaska
+            hu: Alaszka
+          - 
+            en: Costa Rica
+            hu: Costa Rica
+          - 
+            en: Panama
+            hu: Panama
+          - 
+            en: Ecuador
+            hu: Ecuador
+          - 
+            en: Peru
+            hu: Peru
+          - 
+            en: Uruguay
+            hu: Uruguay
+      eu:
+        name: 
+          en: EUROPE
+          hu: EURÓPA
+        items:
+          - 
+            en: Austria
+            hu: Ausztria
+          - 
+            en: Belgium
+            hu: Belgium
+          - 
+            en: Bosnia & Herzegovina
+            hu: Bosznia és Hercegovina
+          - 
+            en: Bulgaria
+            hu: Bulgária
+          - 
+            en: Croatia
+            hu: Horvátország
+          - 
+            en: Denmark
+            hu: Dánia
+          - 
+            en: England
+            hu: Anglia
+          - 
+            en: Estonia
+            hu: Észtország
+          - 
+            en: Finland
+            hu: Finország
+          - 
+            en: Germany
+            hu: Németország
+          - 
+            en: Gibraltar
+            hu: Gibraltár
+          - 
+            en: Greece
+            hu: Görögország
+          - 
+            en: Greek Aegean Islands
+            hu: Görög Égei-szigetek
+          - 
+            en: Hungary
+            hu: Magyarország
+          - 
+            en: Ionian Islands
+            hu: Jón-szigetek
+          - 
+            en: Ireland
+            hu: Írország
+          - 
+            en: Italy
+            hu: Olaszország
+          - 
+            en: Monaco
+            hu: Monaco
+          - 
+            en: Poland
+            hu: Lengyelország
+          - 
+            en: Romania
+            hu: Románia
+          - 
+            en: Russia
+            hu: Oroszország
+          - 
+            en: San Marino
+            hu: San Marino
+          - 
+            en: Scotland
+            hu: Skócia
+          - 
+            en: Serbia
+            hu: Szerbia
+          - 
+            en: Slovakia
+            hu: Szlovákia
+          - 
+            en: Slovenia
+            hu: Szlovénia
+          - 
+            en: Spain
+            hu: Spanyolország
+          - 
+            en: Sweden
+            hu: Svédország
+          - 
+            en: Switzerland
+            hu: Svájc
+          - 
+            en: Turkey in Europe
+            hu: Törökország Európában
+          - 
+            en: Vatican City
+            hu: Vatikán
+          - 
+            en: Wales
+            hu: Wales
+      cr:
+        name: 
+          en: CARIBBEAN
+          hu: KARIBI SZIGETEK
+        items:
+          - 
+            en: Anguilla
+            hu: Anguilla
+          - 
+            en: Bahamas
+            hu: Bahamas
+          - 
+            en: Cayman Islands
+            hu: Cayman Islands
+          - 
+            en: Barbados
+            hu: Barbados
+          - 
+            en: Dominica
+            hu: Dominika
+          - 
+            en: Grenada & Dependencies
+            hu: Grenada & Dependencies
+          - 
+            en: Guadeloupe & Dependencies
+            hu: Guadeloupe & Dependencies
+          - 
+            en: Jamaica
+            hu: Jamaica
+          - 
+            en: Puerto Rico
+            hu: Puerto Rico
+          - 
+            en: St. Kitts
+            hu: St. Kitts
+          - 
+            en: St. Lucia
+            hu: St. Lucia
+          - 
+            en: St. Martin (France)
+            hu: St. Martin (France)
+          - 
+            en: Sint Maarten (Netherlands)
+            hu: Sint Maarten (Netherlands)
+          - 
+            en: Turks & Caicos Islands
+            hu: Turks & Caicos Islands
+          - 
+            en: 'Virgin Islands, British'
+            hu: 
+          - 
+            en: 'Virgin Islands, U.S'
+            hu: 'Virgin Islands, U.S'
+      af:
+        name: 
+          en: AFRICA
+          hu: AFRIKA
+        items:
+          - 
+            en: South Africa
+            hu: Dél Afrika
+          - 
+            en: Egypt
+            hu: Egyiptom
+      as:
+        name: 
+          en: ASIA
+          hu: ÁZSIA
+        items:
+          - 
+            en: Cambodia
+            hu: Kambodzsa
+          - 
+            en: 'China, People’s Republic'
+            hu: Kína
+          - 
+            en: Hong Kong
+            hu: Hong Kong
+          - 
+            en: India
+            hu: India
+          - 
+            en: Japan
+            hu: Japán
+          - 
+            en: Malaysia
+            hu: Malajzia
+          - 
+            en: Singapore
+            hu: 
+          - 
+            en: Thailand
+            hu: Szingapúr
+          - 
+            en: 'Lesser Sunda Islands (Bali, Timor, Indonesia)'
+            hu: 'Lesser Sunda Szigetek (Bali, Timor, Indonézia)'
+      me:
+        name: 
+          en: MIDDLE EAST
+          hu: KÖZEL-KELET
+        items:
+          - 
+            en: Abu Dhabi
+            hu: Abu Dhabi
+          - 
+            en: Dubai
+            hu: Dubai
+          - 
+            en: Jordan
+            hu: Jordánia
+          - 
+            en: Qatar
+            hu: Qatar
+          - 
+            en: Israel
+            hu: Izrael
+          - 
+            en: Palestine
+            hu: Palesztinia
+      op:
+        name: 
+          en: PACIFIC/ATLANTIC/INDIAN OCEAN
+          hu: CSENDES/ATLANTI/INDIAI-ÓCEÁN
+        items:
+          - 
+            en: Australia
+            hu: Ausztrália
+          - 
+            en: Canary Islands
+            hu: Kanári Szigetek
+          - 
+            en: Iceland
+            hu: Izland
+          - 
+            en: Galapagos Islands
+            hu: Galapagos Szigetek
+          - 
+            en: Hawaiian Islands
+            hu: Hawaii Szigetek
+          - 
+            en: New Zealand
+            hu: Új Zéland
+  paypal:
+    text: 
+      en: >-
+        The source code of this website is available for others on my Github site.
+        Got inspired? Did I help you out? Buy me a beer and make me happy!
+      hu: >-
+        Ennek a webhelynek a forráskódja mások számára elérhető a Github webhelyemen.
+        Ihletet kapott? Segítettem neked? Vegyél nekem egy sört és tegyél boldoggá!        
+    referenceValue: LL332A4QE4E6C
+professional:
+  title: 
+    en: Professional
+    hu: Szakmai
+  color: "D3D3D4"
+  summary:
+    title: 
+      en: Summary
+      hu: Összegzés
+    list:
+      - 
+        en: "Track record of working with over 100+ clients in North America in the past 20 years as consultant/technical architect in a variety of roles including pre-sales, implementation and project management."
+        hu: "Több mint 100 ügyféllel dolgozott Észak-Amerikában az elmúlt 20 évben tanácsadóként/műszaki építészként különféle szerepkörökben, beleértve az értékesítés előtti értékesítést, a megvalósítást és a projektmenedzsmentet."
+      - 
+        en: "Hands-on experience leading all stages of IT implementation efforts, including assessment, planning, design, testing and support."
+        hu: "Gyakorlati tapasztalat az Informatikai projektek minden szakaszában, beleértve az értékesitest, tervezést, tesztelést és támogatást."
+      - 
+        en: "Wide range of technical expertise crossing multiple technology areas, allowing a holistic approach to IT solutions."
+        hu: "Műszaki szakértelem széles skálájával rendelkezik, amely több technológiai területet is átível, lehetővé téve az IT-megoldások holisztikus megközelítését."
+  certs:
+    title: 
+      en: Certifications
+      hu: Tanúsítványok
+    logos:
+      - 
+        picture: "https://aarato.s3.amazonaws.com/certs/cert_ccie_enterprise.png"
+        url: "https://www.credly.com/badges/3869ecae-853e-4268-89e9-4c4dde620b36/public_url"
+      - 
+        picture: "https://aarato.s3.amazonaws.com/certs/cert_ccie_collaboration.png"
+        url: "https://www.credly.com/badges/25392e76-965a-4d23-9198-73b26656a6ba/public_url"
+      - 
+        picture: "https://aarato.s3.amazonaws.com/certs/cert_cka.png"
+        url: https://www.credly.com/badges/bfe27456-9079-4a0e-a4c1-02b2d3e261c1/public_url
+      - 
+        picture: "https://aarato.s3.amazonaws.com/certs/cert_aws_sap.png"
+        url: "https://www.credly.com/badges/2bc35a1c-5f59-44f9-b51c-81424697c26c/public_url"
+      - 
+        picture: "https://aarato.s3.amazonaws.com/certs/cert_pan_pcnse.png"
+        url: "https://www.credly.com/badges/9d775ea9-7630-465e-9f78-d526693e3607/public_url"
+      - 
+        picture: "https://aarato.s3.amazonaws.com/certs/cert_2vcp.png"    
+        url: "https://www.credly.com/badges/58b1bdf3-ac3b-44ac-8714-d2d53eff8a09/public_url"
+    list:
+      - text: "Cisco Certified Internetwork Expert Enterprise #3297"
+        href: "https://www.credly.com/badges/3869ecae-853e-4268-89e9-4c4dde620b36/public_url"
+      - text: "Cisco Certified Internetwork Expert Collaboration #3297"
+        href: "https://www.credly.com/badges/25392e76-965a-4d23-9198-73b26656a6ba/public_url"
+      - text: "Certified Kubernetes Administrator"
+        href: "https://www.credly.com/badges/bfe27456-9079-4a0e-a4c1-02b2d3e261c1/public_url"
+      - text: "AWS Certified Solutions Architect Professional"
+        href: "https://www.credly.com/badges/2bc35a1c-5f59-44f9-b51c-81424697c26c/public_url"
+      - text: "Palo Alto Networks Certified Network Security Engineer"
+        href: "https://www.credly.com/badges/9d775ea9-7630-465e-9f78-d526693e3607/public_url"
+      - text: "VMware Certified Professional 6 - 2x (Data Center & Netrwork Virtualization)"
+        href: "https://www.credly.com/badges/58b1bdf3-ac3b-44ac-8714-d2d53eff8a09/public_url"
+  skills:
+    title: 
+      en: Competencies
+      hu: Kompetenciák
+    list:
+    -
+      name: 
+        en: Network Infrastructure and Security
+        hu: Hálózati infrastruktúra és biztonság
+      items:
+      - 
+        en: Network Infrastrucure Designs & Architectures
+        hu: Network Infrastrucure Designs & Architectures
+      - 
+        en: Network Security Concepts & Applications
+        hu: Network Security Concepts & Applications
+      - 
+        en: Routing Protocols (BGP/OSPF/EIGRP/etc.)
+        hu: Routing Protocols (BGP/OSPF/EIGRP/etc.)
+      - 
+        en: Network API Programmability & Automation
+        hu: Network API Programmability & Automation
+      - 
+        en: Cisco Viptela SD-WAN solutions
+        hu: Cisco Viptela SD-WAN solutions
+      -
+        en: Cisco Application Centric Infrastructure (ACI) 
+        hu: Cisco Application Centric Infrastructure (ACI) 
+      - 
+        en: Cisco Firepower and Security Platforms
+        hu: Cisco Firepower and Security Platforms
+      - 
+        en: Cisco Catalyst/Nexus series switches
+        hu: Cisco Catalyst/Nexus series switches
+      - 
+        en: Cisco Meraki MS/MX Series
+        hu: Cisco Meraki MS/MX Series
+      - 
+        en: Palo Alto Firewalls and Security Solutions
+        hu: Palo Alto Firewalls and Security Solutions
+      - 
+        en: Palo Alto Prisma Access
+        hu: Palo Alto Prisma Access
+      - 
+        en: Third party network integrations
+        hu: Third party network integrations
+    -
+      name: 
+        en: Public Cloud Infrastructure
+        hu: Nyilvános felhő infrastruktúra
+      items:
+      - 
+        en: Public Cloud Design Concepts for AWS/Azure/GCP
+        hu: Public Cloud Design Concepts for AWS/Azure/GCP
+      - 
+        en: Hybrid Cloud Network Integrations AWS/Azure
+        hu: Hybrid Cloud Network Integrations AWS/Azure
+      - 
+        en: AWS Serverless Deployments
+        hu: AWS Serverless Deployments
+      - 
+        en: AWS EKS/ECS/Fargate Applications
+        hu: AWS EKS/ECS/Fargate Applications
+      - 
+        en: AWS Server Migrations
+        hu: AWS Server Migrations
+      - 
+        en: AWS Cloudformation Design & Automation
+        hu: AWS Cloudformation Design & Automation
+      - 
+        en: Azure ARM Templates Automation
+        hu: Azure ARM Templates Automation
+      - 
+        en: Azure DevOps Administration & Automation
+        hu: Azure DevOps Administration & Automation
+      - 
+        en: Google Kubernetes Engine (GKE)
+        hu: Google Kubernetes Engine (GKE)
+    -
+      name: 
+        en: Full-stack DevOps Skills
+        hu: Programfejlesztés
+      items:
+      - 
+        en: Docker container development & automation
+        hu: Docker container development & automation
+      - 
+        en: Native Kubernetes Administration
+        hu: Native Kubernetes Administration
+      - 
+        en: Ansible multi-platform automation
+        hu: Ansible multi-platform automation
+      - 
+        en: Git, Git Actions, Github Workflows
+        hu: Git, Git Actions, Github Workflows
+      - 
+        en: Azure DevOps Server
+        hu: Azure DevOps Server
+      - 
+        en: JavaScript, Node.js, Express.js, Socket.io
+        hu: JavaScript, Node.js, Express.js, Socket.io
+      - 
+        en: Python programmability & automation
+        hu: Python programmability & automation
+      - 
+        en: Vue.js, Bootstrap, Jquery, Webpack
+        hu: Vue.js, Bootstrap, Jquery, Webpack
+      - 
+        en: HTML5, CSS3, JavaScript
+        hu: HTML5, CSS3, JavaScript
+    -
+      name: 
+        en: Data Center and Virtualization Technologies
+        hu: Adatközpont és virtualizációs technológiák
+      items:
+      - 
+        en: Linux Administration (Redhat, Debian, etc.)
+        hu: Linux Administration (Redhat, Debian, etc.)
+      - 
+        en: VMware vSphere Design & Deployments
+        hu: VMware vSphere Design & Deployments
+      - 
+        en: Hyper-V Deployment & Administration
+        hu: Hyper-V Deployment & Administration
+      - 
+        en: HPE Synergy blade servers Deployments
+        hu: HPE Synergy blade servers Deployments
+      - 
+        en: Cisco UCS Fabric B & C class Deployments
+        hu: Cisco UCS Fabric B & C class Deployments
+      - 
+        en: Cisco MDS 9000 series Deployments
+        hu: Cisco MDS 9000 series Deployments
+  jobs:
+    title: 
+      en: Work Experience
+      hu: Munkatapasztalat
+    list:
+      - company: 
+          en: Sentinel Technologies Inc.
+          hu: Sentinel Technologies Inc.
+        position: 
+            en: Team Lead, Network Solutions
+            hu: Csapatvezető, hálózati megoldások
+        dates: 
+            en: Sep/2018 - present
+            hu: Szep/2018 - present
+      - company: 
+            en: System Solutions Inc.
+            hu: System Solutions Inc.
+        position: 
+            en: Managing Consultant
+            hu: Ügyvezető Tanácsadó
+        dates: 
+            en: Mar/2009 - Sep/2018
+            hu: Már/2009 - Szep/2018
+      - company: 
+          en: Insight Inc.
+          hu: Insight Inc.
+        position: 
+          en: Techincal Architect, Team Lead
+          hu: Műszaki építész, csapatvezető
+        dates: 
+          en: May/1998 - Mar/2009
+          hu: Máj/1998 - Már/2009
+      - company: 
+          en: Technical University of Budapest
+          hu: Budapesti Műszaki Egyetem
+        position: 
+          en: Student Intern, Network Manager
+          hu: Gyakornok hallgató, Hálózat Menedzser
+        dates: 
+          en: Sep/1994 - May/1998
+          hu: Szep/1994 - Máj/1998
+  education:
+    title: 
+      en: Education
+      hu: Oktatás
+    list:
+      - school: 
+          en: Technical University of Budapest
+          hu: Budapesti Műszaki Egyetem
+        degree: 
+          en: M.Sc. in Computer Science
+          hu: Mérnök-informatikus
+        dates: 
+          en: "Graduation date: June/27/1996"
+          hu: "Diploma dátuma: 1996, június/27"
