@@ -22,6 +22,8 @@ git clone https://github.com/aarato/aarato.git
 cd aarato
 #Build the Docker Image:
 docker build --load -t testwebsite .
+#Alternatively you can build a Multi-Arch image to your repository
+docker buildx build --platform linux/amd64,linux/arm64 -t aarato/aarato:latest --load .
 #Run the Docker Container:
 docker run -it --rm  -p 8080:80 testwebsite
 ```
