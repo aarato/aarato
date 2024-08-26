@@ -117,28 +117,28 @@ personal:
       hu: "Érdeklődés & Hobbik"
     list:
       - text: 
-          en: 'Travel, I have visited more than 80 countries & territories.'
-          hu: 'Utazás, több mint 80 országban és területen jártam.'
+          en: 'Travel: I’ve explored over 80 countries and territories.'
+          hu: 'Utazás: Több mint 80 országot és területet fedeztem fel.'
         url: null
       - text: 
-          en: 'Tennis, I am an active  member of the Naperville Tennis Club.'
-          hu: 'Tenisz, aktív tagja vagyok a Naperville Tennis Clubnak.'
+          en: 'Tennis: As an active member of the Naperville Tennis Club, I’m on the court every week.'
+          hu: 'Tenisz: A Naperville Tennis Club aktív tagjaként minden héten ott vagyok a pályán.'
         url: 'http://www.napervilletennis.com/'
       - text: 
-          en: 'Chess, challange me on chess.com if you are similarly rated ~1000-1100.'
-          hu: 'Sakk, keress meg a chess.com-on, ha hasonlo ~1000-1100 értékelésed vad.'
+          en: 'Chess: Let’s match wits on Chess.com if your rating is around 1000-1200.'
+          hu: 'Sakk: Ha az értékelésed 1000-1200 körül van, mérkőzzünk meg a Chess.com-on.'
         url: 'http://www.chess.com/'
       - text: 
-          en: 'Piano, I will call this "labor of love unreturned".'
-          hu: 'Zongora, ezt a "viszonozatlan szeretet munkája" néven hívom.'
+          en: 'Piano: A "labor of love unreturned" best describes my relationship with the piano.'
+          hu: 'Zongora: A "viszonozatlan szerelem munkája" jellemzi a legjobban a zongorával való kapcsolatomat.'
         url: null
       - text: 
-          en: Electronics, I love working with small circuit boards mostly for home automation.
-          hu: Elektronika, szeretek gyengeáramköri lapokkal dolgozni, főleg otthoni automatizáláshoz.
+          en: 'Electronics: I have a passion for tinkering with small circuit boards, mainly for home automation projects.'
+          hu: 'Elektronika: Szenvedélyem a kis áramköri lapokkal való bütykölés, főleg otthoni automatizálási projektekhez.'
         url: null
       - text: 
-          en: Programming, many of my hobby projects, including the source code of this website are accessible on my github site.
-          hu: Progeramozas, sok hobby projektemet mint ahogy a forraskodjat ennek a weboldalnak megtalalod a github oldatamon.
+          en: 'Programming: Many of my hobby projects, including the source code for this website, are available on my GitHub.'
+          hu: 'Programozás: Sok hobbiprojektem, beleértve ennek a webhelynek a forráskódját, elérhető a GitHubon.'
         url: https://github.com/aarato
   travel:
     title: 
