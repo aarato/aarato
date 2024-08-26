@@ -117,8 +117,8 @@ personal:
       hu: "Érdeklődés & Hobbik"
     list:
       - text: 
-          en: 'Travel, I have visited 82 countries & territories.'
-          hu: 'Utazás, 79 országban és területen jártam.'
+          en: 'Travel, I have visited more than 80 countries & territories.'
+          hu: 'Utazás, több mint 80 országban és területen jártam.'
         url: null
       - text: 
           en: 'Tennis, I am an active  member of the Naperville Tennis Club.'
@@ -439,6 +439,9 @@ personal:
           - 
             en: Brazil
             hu: Brazilia
+          - 
+            en: El Salvador
+            hu: El Salvador
           - 
             en: United States (Contiguous)
             hu: Egyesült Államok (szomszédos)
@@ -961,6 +964,3 @@ professional:
         degree: 
           en: M.Sc. in Computer Science
           hu: Mérnök-informatikus
-        dates: 
-          en: "Graduation date: June/27/1996"
-          hu: "Diploma dátuma: 1996, június/27"
