@@ -7,7 +7,7 @@ frontpage:
     en: Interactive Homepage
     hu: Interaktív Honlap
   images: 
-    main: 'https://aarato.s3.amazonaws.com/img/galapagos-color.jpg'
+    main: 'https://aarato.s3.amazonaws.com/img/alexandra-main.jpg'
     language_us: 'https://aarato.s3.amazonaws.com/img/usa_circle.png'
     language_hu: 'https://aarato.s3.amazonaws.com/img/hun_circle.png'
   carousel:
@@ -88,20 +88,20 @@ personal:
             en: 'Name:'
             hu: 'Név:'
           text: 
-            en: Andras Arato
-            hu: Arató András
+            en: Alexandra Arato
+            hu: Arató Alexandra
         - title: 
             en: 'Place of Birth:'
             hu: 'Születési Hely:'
           text: 
-            en: 'Budapest, Hungary'
-            hu: 'Budapest, Magyarország'
+            en: 'Chicago, Illinois, USA'
+            hu: 'Chicago, USA'
         - title: 
             en: 'Location:'
             hu: 'Tartózkodási Hely:'
           text: 
-            en: 'Chicagoland, Illinois, USA (since 1998)'
-            hu: 'Chicagoland, Illinois, USA (1998-óta )'
+            en: 'Chicagoland, Illinois, USA'
+            hu: 'Chicagoland, Illinois, USA'
     contacts:
       title: 
         en: "Contacts:"
