@@ -17,11 +17,15 @@ FROM nginx:alpine
 # Copy the built files from the previous stage
 COPY --from=builder /app/dist /usr/share/nginx/html
 
+# Copy the entrypoint script
+COPY docker-entrypoint.sh /docker-entrypoint.sh
+RUN chmod +x /docker-entrypoint.sh
+
 # Expose port 80
 EXPOSE 80
 
-# Start Nginx server
-CMD ["nginx", "-g", "daemon off;"]
+# Use custom entrypoint that generates config.json
+ENTRYPOINT ["/docker-entrypoint.sh"]
 
 # Test this with
 # docker build --load -t aarato .

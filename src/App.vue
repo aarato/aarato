@@ -10,9 +10,22 @@ import { useStore } from './stores/config.js'
 const store = useStore()
 
 onMounted( async () => {
-  
-  // await store.fetchYaml('https://aarato.s3.amazonaws.com/config.yaml')
-  await store.fetchYaml('https://raw.githubusercontent.com/aarato/aarato/main/config.yaml')
+  // Fetch runtime configuration
+  let configYamlUrl = 'https://raw.githubusercontent.com/aarato/aarato/main/config.yaml'
+
+  try {
+    const response = await fetch('/config.json')
+    if (response.ok) {
+      const runtimeConfig = await response.json()
+      if (runtimeConfig.configYamlUrl) {
+        configYamlUrl = runtimeConfig.configYamlUrl
+      }
+    }
+  } catch (error) {
+    console.warn('Failed to load runtime config, using default:', error)
+  }
+
+  await store.fetchYaml(configYamlUrl)
   console.log(`Mounted: App`)
   console.log(store.config)
 })

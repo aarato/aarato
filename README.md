@@ -12,7 +12,7 @@ I’m a tech enthusiast with a keen interest in Infrastructure as Code (IaC) pro
 
 ## Repository Information
 
-This repository contains the source code for my personal website, which you can explore right [here](https://github.com/aarato/aarato) on GitHub. The website’s content is dynamically loaded from a [single bi-lingual YAML file ](https://github.com/aarato/aarato/blob/main/config.yaml) stored in this repository. This approach allows me to quickly make updates directly on GitHub, leveraging built-in version control for efficient content management.
+This repository contains the source code for my personal website, which you can explore right [here](https://github.com/aarato/aarato) on GitHub. The website's content is dynamically loaded from a [single bi-lingual YAML file ](https://github.com/aarato/aarato/blob/main/config.yaml) stored in this repository. This approach allows me to quickly make updates directly on GitHub, leveraging built-in version control for efficient content management. The YAML config file location can be customized using the `CONFIG_YAML_URL` environment variable when running the Docker container.
 For detailed setup instructions, please refer to the [How-To Guide](./HOWTO.md).
 
 - **Frontend:** Vue.js, Vite, JavaScript, Bootstrap CSS
