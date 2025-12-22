@@ -7,7 +7,7 @@ frontpage:
     en: Interactive Homepage
     hu: Interaktív Honlap
   images: 
-    main: 'https://aarato.s3.amazonaws.com/img/alexandra-main.jpg'
+    main: 'https://aarato.s3.amazonaws.com/img/alexandra_main.jpg'
     language_us: 'https://aarato.s3.amazonaws.com/img/usa_circle.png'
     language_hu: 'https://aarato.s3.amazonaws.com/img/hun_circle.png'
   carousel:
