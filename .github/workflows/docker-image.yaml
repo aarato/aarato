@@ -6,15 +6,16 @@ on:
       - main  # Trigger the workflow on pushes to the main branch
     paths-ignore:
     - '*.md'
-    - 'config.yaml'      
-    - '.vscode/**'    
+    - 'config.yaml'
+    - 'alexandra.yaml'
+    - '.vscode/**'
   pull_request:
     branches:
       - main  # Trigger the workflow on pull requests to the main branch
     paths-ignore:
     - '*.md'
-    - 'config.yaml'         
-    - '.vscode/**'    
+    - 'config.yaml'
+    - '.vscode/**'
 jobs:
   build:
     runs-on: ubuntu-latest
