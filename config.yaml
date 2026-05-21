@@ -623,12 +623,9 @@ personal:
           - 
             en: Turks & Caicos Islands
             hu: Turks & Caicos Islands
-          - 
-            en: 'Virgin Islands, British'
-            hu: 
-          - 
-            en: 'Virgin Islands, U.S'
-            hu: 'Virgin Islands, U.S'
+          -
+            en: 'Virgin Islands (British & U.S.)'
+            hu: 'Virgin Islands (brit & amerikai)'
       af:
         name: 
           en: AFRICA
